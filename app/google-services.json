@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "802296391688",
+    "firebase_url": "https://usedbooksellapp-default-rtdb.firebaseio.com",
+    "project_id": "usedbooksellapp",
+    "storage_bucket": "usedbooksellapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802296391688:android:6d4b3a817cefc695d889bd",
+        "android_client_info": {
+          "package_name": "com.example.gitproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "802296391688-28ng4rfd4fdp0881vspcvfkc9d1g6sht.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2X4TG3NzDq9tOBKzkSHZEcPTIbgy7MRk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "802296391688-28ng4rfd4fdp0881vspcvfkc9d1g6sht.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
