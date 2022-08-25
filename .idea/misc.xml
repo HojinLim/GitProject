@@ -7,6 +7,15 @@
         <entry key="..\:/Android/Git Projects/app/src/main/res/layout/activity_login.xml" value="0.22" />
         <entry key="..\:/Android/Git Projects/app/src/main/res/layout/activity_main.xml" value="0.36614583333333334" />
         <entry key="..\:/Android/Git Projects/app/src/main/res/layout/activity_showuser.xml" value="0.25" />
+        <entry key="..\:/Android/Projects/GitProject/app/src/main/res/drawable/selector_menu_color.xml" value="0.206" />
+        <entry key="..\:/Android/Projects/GitProject/app/src/main/res/layout/activity_login.xml" value="0.33" />
+        <entry key="..\:/Android/Projects/GitProject/app/src/main/res/layout/activity_memo.xml" value="0.1984375" />
+        <entry key="..\:/Android/Projects/GitProject/app/src/main/res/layout/activity_showuser.xml" value="0.22" />
+        <entry key="..\:/Android/Projects/GitProject/app/src/main/res/layout/activity_sign_up.xml" value="0.2" />
+        <entry key="..\:/Android/Projects/GitProject/app/src/main/res/layout/fragment_account.xml" value="0.2329683698296837" />
+        <entry key="..\:/Android/Projects/GitProject/app/src/main/res/layout/fragment_chat.xml" value="0.1" />
+        <entry key="..\:/Android/Projects/GitProject/app/src/main/res/layout/fragment_home.xml" value="0.19947916666666668" />
+        <entry key="..\:/Android/Projects/GitProject/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.1984375" />
       </map>
     </option>
   </component>
