@@ -6,6 +6,8 @@
     android:background="@color/basic_background">
 
     <EditText
+        android:lines="1"
+        android:inputType="text"
         android:id="@+id/searchEditText"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
